@@ -6,7 +6,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.example.innoventesassignment.MainViewModel" />
+            type="com.example.innoventesassignment.viewmodel.MainViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -15,7 +15,7 @@
         android:layout_height="match_parent"
         android:background="@color/white"
         android:paddingHorizontal="36dp"
-        tools:context=".MainActivity">
+        tools:context=".views.MainActivity">
 
         <androidx.appcompat.widget.AppCompatTextView
             android:id="@+id/header_text_s"

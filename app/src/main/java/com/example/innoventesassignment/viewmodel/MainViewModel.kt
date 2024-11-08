@@ -1,4 +1,4 @@
-package com.example.innoventesassignment
+package com.example.innoventesassignment.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

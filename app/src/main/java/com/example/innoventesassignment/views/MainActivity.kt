@@ -1,4 +1,4 @@
-package com.example.innoventesassignment
+package com.example.innoventesassignment.views
 
 import android.os.Bundle
 import android.text.InputFilter
@@ -6,6 +6,7 @@ import android.widget.Toast
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.widget.addTextChangedListener
+import com.example.innoventesassignment.viewmodel.MainViewModel
 import com.example.innoventesassignment.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
